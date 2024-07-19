@@ -67,7 +67,7 @@
   </a>
 </p>
 
-<h3 align="center">My Stats:</h3>
+<h3 align=left">My Stats:</h3>
 <p align="center">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=minalotfysaad&theme=dark" alt="minalotfysaad" />
 </p>
