@@ -66,8 +66,3 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40" />
   </a>
 </p>
-
-<h3 align=left">My Stats:</h3>
-<p align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=minalotfysaad&theme=dark" alt="minalotfysaad" />
-</p>
