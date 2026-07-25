@@ -10,8 +10,13 @@
   <a href="https://www.linkedin.com/in/minalotfysaad/">LinkedIn</a> •
   <a href="https://github.com/Minalotfysaad">GitHub</a>
 </p>
+<p align="center">
 
----
+<img src="https://streak-stats.demolab.com?user=Minalotfysaad&theme=github-dark&hide_border=true"/>
+
+</p>
+
+
 
 ## 👨‍💻 About Me
 
@@ -58,23 +63,16 @@ I enjoy building RESTful APIs, applying software architecture principles, and wr
 ### Testing & DevOps
 
 ![xUnit](https://img.shields.io/badge/xUnit-5C2D91?style=for-the-badge)
-
 ![Moq](https://img.shields.io/badge/Moq-512BD4?style=for-the-badge)
-
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions)
-
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 ### Tools
 
 ![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visualstudio)
-
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
-
 ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger)
-
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman)
-
 ![Serilog](https://img.shields.io/badge/Serilog-222222?style=for-the-badge)
 
 ---
@@ -106,7 +104,7 @@ An enterprise-grade Leave Management API built with **ASP.NET Core** following *
 
 > Designed to simulate a production-ready enterprise backend.
 
-🔗 Repository: **Coming Soon**
+https://github.com/Minalotfysaad/EmployeeLeaveManagementSystem
 
 ---
 
@@ -158,23 +156,6 @@ A backend platform for managing programming competitions, contestants, grading w
 
 ---
 
-# 📈 GitHub Statistics
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Minalotfysaad&show_icons=true&theme=github_dark&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Minalotfysaad&layout=compact&theme=github_dark&hide_border=true"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=Minalotfysaad&theme=github-dark&hide_border=true"/>
-
-</p>
-
----
 
 ## 🤝 Connect With Me
 
