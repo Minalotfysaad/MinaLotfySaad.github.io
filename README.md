@@ -1,68 +1,197 @@
-<h1 align="center">Hi 🧑‍💻, I'm Mina Lotfy</h1>
-<h3 align="center">A passionate Fullstack Angular & .NET Developer</h3>
+<h1 align="center">Hi there 👋, I'm Mina Lotfy</h1>
 
-###
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/minalotfysaad/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" />
-  </a>
-  <a href="mailto:minalotfysaad@gmail.com">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo" />
-  </a>
-  <a href="http://Wa.me/+201208040804" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="whatsapp logo" />
-  </a>
-</div>
-
-###
-
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=minalotfysaad&label=Profile%20views&color=0e75b6&style=flat" alt="minalotfysaad" /> </p>
-
-<h3 align="left">Web Technologies and Frameworks:</h3>
-<p align="left">
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40" />
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" />
-  </a>
-  <a href="https://sass-lang.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40" />
-  </a>
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="bootstrap" width="40" height="40" />
-  </a>
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40" />
-  </a>
-  <a href="https://angular.io" target="_blank" rel="noreferrer">
-    <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40" />
-  </a>
-  <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40" />
-  </a>
+<p align="center">
+  <strong>.NET Backend Developer</strong><br>
+  Building scalable, maintainable, and production-ready web applications with ASP.NET Core.
 </p>
 
-<h3 align="left">Programming Languages:</h3>
-<p align="left">
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" />
-  </a>
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40" />
-  </a>
-  <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40" />
-  </a>
+<p align="center">
+  <a href="mailto:minalotfysaad@gmail.com">Email</a> •
+  <a href="https://www.linkedin.com/in/minalotfysaad/">LinkedIn</a> •
+  <a href="https://github.com/Minalotfysaad">GitHub</a>
 </p>
 
-<h3 align="left">Database Management Systems (DBMS):</h3>
-<p align="left">
-  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer">
-    <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40" />
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40" />
-  </a>
+---
+
+## 👨‍💻 About Me
+
+I'm a .NET Backend Developer with a passion for designing robust backend systems and solving real-world problems through clean, maintainable code.
+
+I enjoy building RESTful APIs, applying software architecture principles, and writing code that is scalable, testable, and easy to maintain. My projects focus on modern backend development using the .NET ecosystem and industry best practices.
+
+---
+
+# 🚀 Tech Stack
+
+### Languages
+
+![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+
+### Backend
+
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet)
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet)
+![Entity Framework Core](https://img.shields.io/badge/Entity_Framework_Core-512BD4?style=for-the-badge)
+![REST API](https://img.shields.io/badge/REST_API-005571?style=for-the-badge)
+![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=jsonwebtokens)
+![ASP.NET Identity](https://img.shields.io/badge/Identity-5C2D91?style=for-the-badge)
+
+### Database & Caching
+
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+
+### Architecture & Design
+
+- Clean Architecture
+- CQRS
+- MediatR
+- Repository Pattern
+- Unit of Work
+- Specification Pattern
+- SOLID Principles
+- Dependency Injection
+- AutoMapper
+- FluentValidation
+
+### Testing & DevOps
+
+![xUnit](https://img.shields.io/badge/xUnit-5C2D91?style=for-the-badge)
+
+![Moq](https://img.shields.io/badge/Moq-512BD4?style=for-the-badge)
+
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions)
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+### Tools
+
+![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visualstudio)
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
+
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger)
+
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman)
+
+![Serilog](https://img.shields.io/badge/Serilog-222222?style=for-the-badge)
+
+---
+
+# ⭐ Featured Projects
+
+## 🏢 Employee Leave Management System
+
+An enterprise-grade Leave Management API built with **ASP.NET Core** following **Clean Architecture** and modern software engineering practices.
+
+### Highlights
+
+- JWT Authentication & Refresh Tokens
+- Role-Based Authorization (Employee, Manager & HR)
+- CQRS with MediatR
+- Clean Architecture
+- Entity Framework Core
+- SQL Server
+- Redis Distributed Caching
+- FluentValidation
+- AutoMapper
+- Serilog Structured Logging
+- Unit Testing with xUnit & Moq
+- GitHub Actions CI/CD
+- Docker Support
+- Global Exception Handling
+- Pagination, Filtering & Sorting
+- Repository & Specification Pattern
+
+> Designed to simulate a production-ready enterprise backend.
+
+🔗 Repository: **Coming Soon**
+
+---
+
+## 🛒 E-Commerce API
+
+A production-style e-commerce backend implementing clean architecture and enterprise design patterns.
+
+### Features
+
+- JWT Authentication
+- Authorization
+- Repository Pattern
+- Unit of Work
+- Specification Pattern
+- Redis Caching
+- Stripe Payment Integration
+- Clean Architecture
+- Global Exception Handling
+
+🔗 https://github.com/Minalotfysaad/E-Commerce.App
+
+---
+
+## 🏆 Competitions Hub API
+
+A backend platform for managing programming competitions, contestants, grading workflows, and leaderboards.
+
+### Features
+
+- Role-Based Authorization
+- Competition Management
+- Manual & Automatic Grading
+- Leaderboards
+- RESTful APIs
+- Entity Framework Core
+
+🔗 https://github.com/Minalotfysaad/CompetitionsHub
+
+---
+
+# 🎯 Interests
+
+- Backend Architecture
+- REST API Design
+- Distributed Systems
+- Performance Optimization
+- Software Design Principles
+- System Design
+
+---
+
+# 📈 GitHub Statistics
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Minalotfysaad&show_icons=true&theme=github_dark&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Minalotfysaad&layout=compact&theme=github_dark&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=Minalotfysaad&theme=github-dark&hide_border=true"/>
+
+</p>
+
+---
+
+## 🤝 Connect With Me
+
+📧 **Email**
+
+minalotfysaad@gmail.com
+
+💼 **LinkedIn**
+
+https://www.linkedin.com/in/minalotfysaad/
+
+🌍 **GitHub**
+
+https://github.com/Minalotfysaad
+
+---
+
+<p align="center">
+Thanks for visiting my profile! Feel free to explore my repositories and connect with me.
 </p>
