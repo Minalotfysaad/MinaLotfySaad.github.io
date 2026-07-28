@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋, I'm Mina Lotfy</h1>
+<h1 align="center">Hi there 👋, I'm Mina Saad</h1>
 
 <p align="center">
   <strong>.NET Backend Developer</strong><br>
